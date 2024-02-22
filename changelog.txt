@@ -1,5 +1,8 @@
 For now, we work with dates, not version numbers
 
+22.02.2024:
+Merged commit that fixed udpServer not correctly considering the PORT parameter
+
 17.11.2023:
 Adjusted how inter-packet-time is calculated: it was from finishing to send until starting to send the next. Was adjusted to be always between starting to send. 
 
