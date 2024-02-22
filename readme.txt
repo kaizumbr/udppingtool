@@ -12,6 +12,6 @@ Client: ./udpClient -a TargetIP
 The server reports progress every 100 packets, the client presents results at the end
 
 Help on command-line options:
-./udpServer -h (changing port (-p) is the only option)
+./udpServer -h
 ./udpClient -h 
 
